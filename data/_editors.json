@@ -5,6 +5,11 @@
         "link": "https://shdl.pages.dev/#"
     },
     {
+        "role": "dev",
+        "name": "haristic",
+    },
+    {
+        "link": "https://www.youtube.com/@haristick"
         "role": "admin",
         "name": "List Admin",
         "link": "https://www.youtube.com/@Prometheus_Alt"
@@ -18,10 +23,5 @@
         "role": "trial",
         "name": "Trial List Helper",
         "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "dev",
-        "name": "haristic",
-        "link": "https://www.youtube.com/@haristick"
     }
 ]
