@@ -1,24 +1,18 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 5904109,
+    "name": "Platinum Adventure (0.05)",
+    "author": "Jerry4",
+    "creators": [],
+    "verifier": "YagiGD",
+    "verification": "https://drive.google.com/file/d/1FPM1URU6OXu6n5Adxh5RjwWeIJD05N4J/view?usp=sharing",
     "percentToQualify": "100",
-    "password": "46290",
+    "password": "0000",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "notfed426",
+            "link": "https://drive.google.com/file/d/1FPM1URU6OXu6n5Adxh5RjwWeIJD05N4J/view?usp=sharing",
             "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
+            "hz": "NA"
         }
     ]
 }
