@@ -1,1 +1,18 @@
-
+{
+    "id": 124136398,
+    "name": "Backbeat Revenge (0.1x)",
+    "author": "Darwin",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "notfed426",
+    "verification": "https://drive.google.com/file/d/1tf3aYdGagg5kCb92Imyl0myfDHDe16lJ/view?usp=sharing",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
