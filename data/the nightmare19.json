@@ -1,0 +1,30 @@
+{
+    "id": "13519",
+    "name": "The Nightmare (0.19x)",
+    "author": "Jax",
+    "creators": [],
+    "verifier": "Beenitiger",
+    "verification": "https://www.youtube.com/watch?v=PejQgWfKaLw",
+    "percentToQualify": "100",
+    "password": "7813",
+    "records": [
+        {
+            "user": "RoarMill",
+            "link": "NA",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "YagiGD",
+            "link": "NA",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "notfed426",
+            "link": "https://drive.google.com/file/d/1yhOonK4CfMmqxcXAP4iJqot3XHSw8G9K/view?usp=sharing",
+            "percent": 100,
+            "hz": "NA"
+        }
+    ]
+}
