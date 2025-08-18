@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "password": "7813",
     "records": [
+        {
+            "user": "notfed426",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "YagiGD",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
     ]
 }
