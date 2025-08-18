@@ -1,12 +1,18 @@
 {
     "id": 77132030,
-    "name": "Ratio Circles (0.05x)",
+    "name": "Ratio Circles",
     "author": "Ch4rlie03",
     "creators": [],
-    "verifier": "FranPes",
+    "verifier": "Ch4rlie03",
     "verification": "https://www.youtube.com/watch?v=aScQ6vcTpYc",
     "percentToQualify": 100,
-    "password": "Not Copyable",
+    "password": "NA",
     "records": [
+        {
+            "user": "zomebodyelse",
+            "link": "https://www.youtube.com/watch?v=XHJEtBICosY",
+            "percent": 100,
+            "hz": "NA"
+        }
     ]
 }
