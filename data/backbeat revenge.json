@@ -8,5 +8,17 @@
     "percentToQualify": 100,
     "password": "NA",
     "records": [
+        {
+            "user": "Juniper",
+            "link": "https://www.youtube.com/watch?v=T5ApyhHz-mc",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "Vortrox",
+            "link": "https://www.youtube.com/watch?v=z7ZHsrdQgq4",
+            "percent": 100,
+            "hz": "NA"
+        }
     ]
 }
