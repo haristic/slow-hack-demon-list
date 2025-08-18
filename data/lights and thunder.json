@@ -1,18 +1,12 @@
 {
     "id": 848722,
-    "name": "Lights And Thunder (0.2x)",
+    "name": "Lights And Thunder",
     "author": "Lyod",
     "creators": [],
-    "verifier": "RoarMill",
+    "verifier": "Lyod",
     "verification": "https://drive.google.com/file/d/1cR8yFCrdyUMZ0FE-Z-EZg4qo5jJ7Knsy/view",
     "percentToQualify": "100",
-    "password": "Not Copyable",
+    "password": "NA",
     "records": [
-        {
-            "user": "notfed426",
-            "link": "https://drive.google.com/file/d/1cR8yFCrdyUMZ0FE-Z-EZg4qo5jJ7Knsy/view",
-            "percent": 100,
-            "hz": "NA"
-        }
     ]
 }
