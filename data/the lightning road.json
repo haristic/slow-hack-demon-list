@@ -1,22 +1,22 @@
 {
     "id": 55520,
-    "name": "The Lightning Road (0.15x)",
+    "name": "The Lightning Road",
     "author": "Timeless Real",
     "creators": [],
-    "verifier": "RoarMill",
-    "verification": "https://drive.google.com/file/d/1pl3qgY5srutbVe3yjeirFXwbqZCCoZVD/view",
+    "verifier": "Timeless Real",
+    "verification": "",
     "percentToQualify": "100",
-    "password": "Not Copyable",
+    "password": "NA",
     "records": [
         {
             "user": "notfed426",
-            "link": "https://drive.google.com/file/d/1pl3qgY5srutbVe3yjeirFXwbqZCCoZVD/view",
+            "link": "",
             "percent": 100,
             "hz": "NA"
         },
         {
-            "user": "Beenitiger",
-            "link": "https://www.youtube.com/watch?v=KYXNQVkIiR0",
+            "user": "YagiGD",
+            "link": "",
             "percent": 100,
             "hz": "NA"
         }
