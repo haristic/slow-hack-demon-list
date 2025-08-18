@@ -1,18 +1,12 @@
 {
     "id": 5904109,
-    "name": "Platinum Adventure (0.05x)",
+    "name": "Platinum Adventure",
     "author": "Jerry4",
     "creators": [],
-    "verifier": "YagiGD",
-    "verification": "https://drive.google.com/file/d/1FPM1URU6OXu6n5Adxh5RjwWeIJD05N4J/view?usp=sharing",
+    "verifier": "Jerry4",
+    "verification": "",
     "percentToQualify": "100",
     "password": "0000",
     "records": [
-        {
-            "user": "notfed426",
-            "link": "https://drive.google.com/file/d/1FPM1URU6OXu6n5Adxh5RjwWeIJD05N4J/view?usp=sharing",
-            "percent": 100,
-            "hz": "NA"
-        }
     ]
 }
