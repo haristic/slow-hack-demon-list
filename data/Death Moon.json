@@ -1,0 +1,24 @@
+{
+    "id": 8660411,
+    "name": "Death Moon",
+    "author": "Funnygame",
+    "creators": [],
+    "verifier": "Funnygame",
+    "verification": "NA",
+    "percentToQualify": 100,
+    "password": "NA",
+    "records": [
+        {
+            "user": "Dolphy",
+            "link": "https://www.youtube.com/watch?v=pqbWqjD5qOk&list=RDpqbWqjD5qOk&start_radio=1",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "Nexus",
+            "link": "https://www.youtube.com/results?search_query=death+moon",
+            "percent": 100,
+            "hz": "NA"
+        }
+    ]
+}
