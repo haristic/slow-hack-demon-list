@@ -1,4 +1,5 @@
-"id": 30775991,
+{
+    "id": 30775991,
     "name": "SanSan",
     "author": "Bronks",
     "creators": [],
@@ -7,3 +8,5 @@
     "percentToQualify": "100",
     "password": "140400",
     "records": [
+    ]
+}
