@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "152364",
     "records": [
+        {
+            "user": "Cubeline",
+            "link": "https://www.youtube.com/watch?v=rU4eT5GpQcA",
+            "percent": 100,
+            "hz": "NA"
+        }
     ]
 }
