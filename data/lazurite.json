@@ -1,12 +1,12 @@
 {
-    "id": "NA",
+    "id": "42566186",
     "name": "Lazurite",
-    "author": "",
-    "creators": [],
-    "verifier": "",
+    "author": "Hann",
+    "creators": ["Hann, Lioleo"],
+    "verifier": "Hann",
     "verification": "",
     "percentToQualify": "100",
-    "password": "NA",
+    "password": "123123",
     "records": [
     ]
 }
