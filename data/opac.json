@@ -1,0 +1,18 @@
+{
+    "id": "NA",
+    "name": "Opac",
+    "author": "",
+    "creators": [],
+    "verifier": "",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "NA",
+    "records": [
+        {
+            "user": "YagiGD",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
+    ]
+}
