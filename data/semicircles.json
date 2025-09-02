@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "NA",
     "records": [
+         {
+            "user": "FranPes",
+            "link": "https://youtu.be/0rjOtdlIdUk",
+            "percent": 100,
+            "hz": "NA"
+        }
     ]
 }
