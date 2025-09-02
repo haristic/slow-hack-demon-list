@@ -156,7 +156,7 @@ input[type="number"],
 .type-label-lg {
     font-family: "Lexend Deca", sans-serif;
     font-size: 18.1428571429px;
-    line-height: 5px;
+    line-height: 3px;
     font-weight: 500;
     -webkit-font-smoothing: subpixel-antialiased;
 }
