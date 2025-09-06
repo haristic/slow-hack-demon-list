@@ -4,9 +4,15 @@
     "author": "Nexender",
     "creators": [],
     "verifier": "Nexender",
-    "verification": "",
+    "verification": "https://www.youtube.com/watch?v=YXC4S1jwb6k",
     "percentToQualify": "100",
     "password": "NA",
     "records": [
+        {
+            "user": "COLDFIRE",
+            "link": "https://www.youtube.com/watch?v=YXC4S1jwb6k",
+            "percent": 100,
+            "hz": "NA"
+        }
     ]
 }
