@@ -1,6 +1,6 @@
 {
     "id": "18735780",
-    "name": "Dear Nostalgist",
+    "name": "Dear Nostalgists",
     "author": "TriAxis",
     "creators": [],
     "verifier": "TriAxis",
@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "NA",
     "records": [
+        {
+            "user": "haristic",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
     ]
 }
