@@ -100,19 +100,19 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        The Speed of your Completion must stay the same throughout the whole level
+                        Your Completed level must be a rated Easy Demon
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Any cheats used will not be tolerated
                     </p>
                     <p>
-                        Your Completed level must be of Demon Difficulty
+                        Level must be from 0-100%
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        Please include your GD username in the message of your completion
                     </p>
                     <p>
                         Do not use secret routes or bug routes
@@ -121,7 +121,10 @@ export default {
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
-                        The Speed you Complete the level in can't have more than 2 Decimal Numbers
+                        If you are leaderboard banned, we can't guarantee your completions are legitimate so there must be video evidence from 0-100% of you completing the level with audible clicks
+                    </p>
+                    <p>
+                    If you aren't leaderboard banned, all we need is a simple screenshot of the level with the bar at 100%
                     </p>
                 </div>
             </div>
