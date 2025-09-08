@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "777777",
     "records": [
+        {
+            "user": "haristic",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
     ]
 }
