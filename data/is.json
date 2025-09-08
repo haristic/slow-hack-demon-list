@@ -8,9 +8,15 @@
     "percentToQualify": 100,
     "password": "NA",
     "records": [
-         {
+        {
             "user": "FranPes",
             "link": "https://www.youtube.com/watch?v=ZNCKzw0KUeE",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "haristic",
+            "link": "",
             "percent": 100,
             "hz": "NA"
         }
