@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "103127",
     "records": [
+        {
+            "user": "POKEMON GD",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
     ]
 }
