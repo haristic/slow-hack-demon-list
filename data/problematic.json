@@ -9,12 +9,6 @@
     "password": "NA",
     "records": [
         {
-            "user": "MascetUUM",
-            "link": "",
-            "percent": 100,
-            "hz": "NA"
-        },
-        {
             "user": "Cubeline",
             "link": "https://www.youtube.com/watch?v=O3w3MR3iyh0",
             "percent": 100,
@@ -23,12 +17,6 @@
          {
             "user": "FranPes",
             "link": "https://www.youtube.com/watch?v=ZNCKzw0KUeE",
-            "percent": 100,
-            "hz": "NA"
-        },
-        {
-            "user": "Bu4c4",
-            "link": "",
             "percent": 100,
             "hz": "NA"
         },
