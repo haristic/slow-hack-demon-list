@@ -9,6 +9,12 @@
     "password": "0000",
     "records": [
         {
+            "user": "POKEMON GD",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
             "user": "RoarMill",
             "link": "",
             "percent": 100,
