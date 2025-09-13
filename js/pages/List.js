@@ -55,18 +55,6 @@ export default {
                             <p>{{ level.password || 'Free to Copy' }}</p>
                         </li>
                     </ul>
-                    <!-- Current Level -->
-<div class="level" v-if="!hasCompleted">
-  <a :href="currentLevel.video" target="_blank" class="video">
-    <img :src="getThumbnailFromId(getYoutubeIdFromUrl(currentLevel.video))" alt="">
-  </a>
-  <div class="meta">
-    <p>#{{ currentLevel.rank }}</p>
-    <h2>{{ currentLevel.name }}</h2>
-    <p>{{ currentLevel.id }}</p>
-  </div>
-  ...
-</div>
 <!-- Similar Videos -->
 <div class="similar-videos" v-if="similarLevels.length">
   <h3>Similar Videos</h3>
