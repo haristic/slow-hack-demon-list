@@ -112,6 +112,7 @@ export default {
         showRemaining: false,
         useMainList: true,
         useExtendedList: true,
+        useGlobalList: true,
         toasts: [],
         fileInput: undefined,
     }),
