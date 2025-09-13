@@ -1,17 +1,4 @@
 [
-    data: () => ({
-      searchQuery: "",
-      list: [], // you already have this
-    }),
-    computed: {
-      filteredList() {
-        return this.list.filter(([level]) =>
-          level &&
-          level.name.toLowerCase().includes(this.searchQuery.toLowerCase())
-        );
-      }
-    }
-]
     "hollowing",
     "toxic sewage",
     "intensa emozione",
