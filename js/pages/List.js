@@ -55,18 +55,6 @@ export default {
                             <p>{{ level.password || 'Free to Copy' }}</p>
                         </li>
                     </ul>
-<!-- Similar Videos -->
-<div class="similar-videos" v-if="similarLevels.length">
-  <h3>Similar Videos</h3>
-  <div class="video-list">
-    <div v-for="similar in similarLevels" :key="similar.id" class="similar-video">
-      <a :href="similar.video" target="_blank">
-        <img :src="getThumbnailFromId(getYoutubeIdFromUrl(similar.video))" alt="">
-        <p>{{ similar.name }}</p>
-      </a>
-    </div>
-  </div>
-</div>
                     <h2>Records</h2>
                     <p v-if="selected + 1 <= 75"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
                     <p v-else-if="selected +1 <= 150"><strong>100%</strong> or better to qualify</p>
