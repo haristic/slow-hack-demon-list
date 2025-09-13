@@ -195,7 +195,7 @@ export default {
             if (this.useExtendedList) {
                 list.push(...fullListMapped.slice(75, 150));
             if (this.useGlobalList) {
-                list.push(...fullListMapped.slice(150, 200))
+                list.push(...fullListMapped.slice(150, 200));
 
             // random 100 levels
             this.levels = shuffle(list).slice(0, 100);
