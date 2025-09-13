@@ -1,3 +1,9 @@
+    <input
+      type="text"
+      v-model="searchQuery"
+      placeholder="Search levels..."
+      class="search-bar"
+    />
 [
     ".search bar",
     "hollowing",
