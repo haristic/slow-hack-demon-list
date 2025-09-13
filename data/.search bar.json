@@ -1,12 +1,15 @@
-    data: () => ({
-      searchQuery: "",
-      list: [], // you already have this
-    }),
-    computed: {
-      filteredList() {
-        return this.list.filter(([level]) =>
-          level &&
-          level.name.toLowerCase().includes(this.searchQuery.toLowerCase())
-        );
-      }
-    }
+<input 
+  type="text" 
+  v-model="searchQuery" 
+  placeholder="Search levels..."
+  class="search-bar"
+/>
+
+<ul>
+  <li 
+    v-for="([level], i) in filteredList" 
+    :key="level.id"
+  >
+    {{ level.name }} by {{ level.author }}
+  </li>
+</ul>
