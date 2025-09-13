@@ -1,4 +1,19 @@
 [
+    <input 
+      type="text" 
+      v-model="searchQuery" 
+      placeholder="Search levels..."
+      class="search-bar"
+    />
+    <ul>
+      <li 
+        v-for="([level], i) in filteredList" 
+        :key="level.id"
+      >
+        {{ level.name }} by {{ level.author }}
+      </li>
+    </ul>
+]
     "hollowing",
     "toxic sewage",
     "intensa emozione",
