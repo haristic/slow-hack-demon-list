@@ -1,15 +1,10 @@
-<input 
-  type="text" 
-  v-model="searchQuery" 
-  placeholder="Search levels..."
-  class="search-bar"
-/>
-
-<ul>
-  <li 
-    v-for="([level], i) in filteredList" 
-    :key="level.id"
-  >
-    {{ level.name }} by {{ level.author }}
-  </li>
-</ul>
+data: () => ({
+    list: [],
+    editors: [],
+    loading: true,
+    selected: 0,
+    errors: [],
+    roleIconMap,
+    store,
+    searchQuery: "",   // 👈 added
+}),
