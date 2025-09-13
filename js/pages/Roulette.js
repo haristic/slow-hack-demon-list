@@ -26,7 +26,7 @@ export default {
                     </div>
                     <div class="check">
                         <input type="checkbox" id="global" value="Global List" v-model="useGlobalList">
-                        <label for="extended">Extended List</label>
+                        <label for="global">Global List</label>
                     </div>
                     <Btn @click.native.prevent="onStart">{{ levels.length === 0 ? 'Start' : 'Restart'}}</Btn>
                 </form>
