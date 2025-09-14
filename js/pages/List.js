@@ -139,8 +139,7 @@ export default {
         roleIconMap,
         store
     }),
-    ({
-        <input type="text" placeholder="Search by level name..." class="search-input type-body-lg">
+    ({ <input type="text" placeholder="Search by level name..." class="search-input type-body-lg"> 
     }),
     computed: {
         level() {
