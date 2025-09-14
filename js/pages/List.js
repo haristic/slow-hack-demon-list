@@ -22,40 +22,6 @@ export default {
         </main>
         <main v-else class="page-list">
             <div class="list-container">
-            
-            <div class="search-container">
-                <input
-                    type="text"
-                    class="search"
-                    id="search-bar"
-                    placeholder="Search..."
-                    v-model="searchQuery"
-                />
-                <button v-if="searchQuery" @click="searchQuery = ''" class="clear-search">x</button>
-            </div>
-            
-                computed: {
-        level() {
-            return this.list && this.list[this.selected] && this.list[this.selected][2];
-        },
-        filteredLevels() {
-            const query = this.searchQuery.toLowerCase();
-            let list = this.list
-            // this was a lot of fun!
-            let sortOption = parseInt(this.sortOption)
-
-            // use the separate indexing for searching Shenanigans
-            list = list.map((item, index) => ({ index, item }));
-            
-            // search logic
-            if (query.trim()) {
-                list = list.filter(({ item: [err, rank, level] }) =>
-                    (level?.name.toLowerCase())
-                        .includes(query) &&
-                    level?.id !== 0
-                )
-            }
-            
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
                         <td class="rank">
