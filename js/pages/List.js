@@ -22,23 +22,6 @@ export default {
         </main>
         <main v-else class="page-list">
             <div class="list-container">
-
-            <!-- 🔍 Search bar -->
-                <div class="search-wrapper">
-                    <input
-                        type="text"
-                        v-model="searchQuery"
-                        placeholder="Search by level name..."
-                        class="search-input type-body-lg"
-                    />
-                </div>
-
-                <!-- No results -->
-                <p v-if="filteredList.length === 0" class="no-results type-body-lg">
-                    No levels found matching your search.
-                </p>
-            </div>
-            
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
                         <td class="rank">
