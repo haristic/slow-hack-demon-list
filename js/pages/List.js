@@ -33,22 +33,6 @@ export default {
                     />
                 </div>
 
-                <!-- Filtered table -->
-                <table class="list" v-if="filteredList.length">
-                    <tr v-for="([level, err], i) in filteredList" :key="i">
-                        <td class="rank">
-                            <p class="type-label-lg">#{{ i + 1 }}</p>
-                        </td>
-                        <td class="level" :class="{ 'active': selected == i, 'error': !level }">
-                            <button @click="selected = i">
-                                <span class="type-label-lg">
-                                    {{ level?.name || \`Error (\${err}.json)\` }}
-                                </span>
-                            </button>
-                        </td>
-                    </tr>
-                </table>
-
                 <!-- No results -->
                 <p v-if="filteredList.length === 0" class="no-results type-body-lg">
                     No levels found matching your search.
