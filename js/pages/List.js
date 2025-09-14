@@ -33,7 +33,7 @@ export default {
                         </td>
                         <td class="level" :class="{ 'active': selected === item.originalIndex, 'error': !item.level }">
                             <button @click="selected = item.originalIndex">
-                                <span class="type-label-lg">{{ item.level?.name || \`Error (\${item.err}.json)\` }}</span>
+                                <span class="type-label-lg">{{ item.name?.toLowerCase().includes(this.searchQuery.toLowerCase()) || \`Error (\${item.err}.json)\` }}</span>
                             </button>
                         </td>
                     </tr>
@@ -62,7 +62,7 @@ export default {
         return this.list; // if nothing typed, show all
       }
       return this.list.filter((item) =>
-        item.level?.name
+        item.name?.toLowerCase().includes(this.searchQuery.toLowerCase())
           ?.toLowerCase()
           .includes(this.searchQuery.toLowerCase())
       );
