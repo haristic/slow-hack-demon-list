@@ -22,6 +22,39 @@ export default {
         </main>
         <main v-else class="page-list">
             <div class="list-container">
+
+            <!-- 🔍 Search bar -->
+                <div class="search-wrapper">
+                    <input
+                        type="text"
+                        v-model="searchQuery"
+                        placeholder="Search by level name..."
+                        class="search-input type-body-lg"
+                    />
+                </div>
+
+                <!-- Filtered table -->
+                <table class="list" v-if="filteredList.length">
+                    <tr v-for="([level, err], i) in filteredList" :key="i">
+                        <td class="rank">
+                            <p class="type-label-lg">#{{ i + 1 }}</p>
+                        </td>
+                        <td class="level" :class="{ 'active': selected == i, 'error': !level }">
+                            <button @click="selected = i">
+                                <span class="type-label-lg">
+                                    {{ level?.name || \`Error (\${err}.json)\` }}
+                                </span>
+                            </button>
+                        </td>
+                    </tr>
+                </table>
+
+                <!-- No results -->
+                <p v-if="filteredList.length === 0" class="no-results type-body-lg">
+                    No levels found matching your search.
+                </p>
+            </div>
+            
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
                         <td class="rank">
