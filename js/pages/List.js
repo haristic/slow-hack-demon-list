@@ -26,11 +26,18 @@ export default {
                 <div class="search-wrapper">
                     <input type="text" v-model="searchQuery" placeholder="Search by level name..." class="search-input type-body-lg">
                 </div>
-                
-                <p v-if="list && list.length > 0 && filteredListDisplay && filteredListDisplay.length === 0" class="no-results type-body-lg">
-                    No levels found matching your search.
-                </p>
-            </div>
+                    <table class="list" v-if="list && list.length">
+                    <tr v-for="item in filteredListDisplay" :key="item.originalIndex">
+                        <td class="rank">
+                            <p class="type-label-lg">#{{ item.originalIndex + 1 }}</p>
+                        </td>
+                        <td class="level" :class="{ 'active': selected === item.originalIndex, 'error': !item.level }">
+                            <button @click="selected = item.originalIndex">
+                                <span class="type-label-lg">{{ item.level?.name || \`Error (\${item.err}.json)\` }}</span>
+                            </button>
+                        </td>
+                    </tr>
+                </table>
             
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
