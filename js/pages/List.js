@@ -31,7 +31,7 @@ export default {
                         <td class="rank">
                             <p class="type-label-lg">#{{ item.originalIndex + 1 }}</p>
                         </td>
-                        <td class="level" :class="{ 'active': selected === item.originalIndex, 'error': !item.level }">
+                        <td class="level" :class="{ 'active': selected === item.originalIndex, 'error': !item.name }">
                             <button @click="selected = item.originalIndex">
                                 <span class="type-label-lg">{{ item.name || `Error (${item.err}.json)` }}</span>
                             </button>
