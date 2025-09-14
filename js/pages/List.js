@@ -56,19 +56,16 @@ export default {
       required: true,
     },
   },
-  computed: {
-    filteredListDisplay() {
-      if (!this.searchQuery) {
-        return this.list; // if nothing typed, show all
-      }
-      return this.list.filter((item) =>
-        item.name?.toLowerCase().includes(this.searchQuery.toLowerCase())
-          ?.toLowerCase()
-          .includes(this.searchQuery.toLowerCase())
-      );
-    },
+computed: {
+  filteredListDisplay() {
+    if (!this.searchQuery) {
+      return this.list; // if nothing typed, show all
+    }
+    return this.list.filter((item) =>
+      item.name?.toLowerCase().includes(this.searchQuery.toLowerCase())
+    );
   },
-};
+},
 </script>
             
                 <table class="list" v-if="list">
