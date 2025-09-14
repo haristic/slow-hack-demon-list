@@ -55,6 +55,18 @@ export default {
       type: Array,
       required: true,
     },
+},
+  computed: {
+    filteredListDisplay() {
+      if (!this.searchQuery) {
+        return this.list || [];
+      }
+      return (this.list || []).filter((item) =>
+        item.name?.toLowerCase().includes(this.searchQuery.toLowerCase())
+      );
+    },
+  },
+};
 </script>
             
                 <table class="list" v-if="list">
