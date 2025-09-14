@@ -38,6 +38,39 @@ export default {
                         </td>
                     </tr>
                 </table>
+                <p v-if="list && list.length > 0 && filteredListDisplay && filteredListDisplay.length === 0" class="no-results type-body-lg">
+                No levels found matching your search.
+                </p>
+            </div>
+
+            <script>
+export default {
+  data() {
+    return {
+      searchQuery: "",
+      selected: null,
+    };
+  },
+  props: {
+    list: {
+      type: Array,
+      required: true,
+    },
+  },
+  computed: {
+    filteredListDisplay() {
+      if (!this.searchQuery) {
+        return this.list; // if nothing typed, show all
+      }
+      return this.list.filter((item) =>
+        item.level?.name
+          ?.toLowerCase()
+          .includes(this.searchQuery.toLowerCase())
+      );
+    },
+  },
+};
+</script>
             
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
