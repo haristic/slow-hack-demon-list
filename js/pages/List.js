@@ -24,15 +24,6 @@ export default {
             <div class="list-container">
             <input type="text" placeholder="Search by level name..." class="search-input type-body-lg">
 
-      <!-- Output: filtered levels -->
-      <div class="levels-output">
-        <div v-for="level in filteredLevels" :key="level.id" class="level-item">
-          {{ level.name }}
-        </div>
-      </div>
-    </div>
-  </main>
-
 <script>
 export default {
   data() {
