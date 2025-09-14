@@ -33,7 +33,7 @@ export default {
                         </td>
                         <td class="level" :class="{ 'active': selected === item.originalIndex, 'error': !item.level }">
                             <button @click="selected = item.originalIndex">
-                                <span class="type-label-lg">{{ item.name?.toLowerCase().includes(this.searchQuery.toLowerCase()) || \`Error (\${item.err}.json)\` }}</span>
+                                <span class="type-label-lg">{{ item.name || `Error (${item.err}.json)` }}</span>
                             </button>
                         </td>
                     </tr>
