@@ -22,8 +22,6 @@ export default {
         </main>
         <main v-else class="page-list">
             <div class="list-container">
-            <div class="search-wrapper">…</div>
-            <input type="text" placeholder="Search by level name..." class="search-input type-body-lg">
             <template>
   <main v-else class="page-list">
     <div class="list-container">
