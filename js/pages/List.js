@@ -24,6 +24,51 @@ export default {
             <div class="list-container">
             <div class="search-wrapper">…</div>
             <input type="text" placeholder="Search by level name..." class="search-input type-body-lg">
+            <template>
+  <main v-else class="page-list">
+    <div class="list-container">
+      <div class="search-wrapper">
+        <input
+          type="text"
+          placeholder="Search by level name..."
+          class="search-input type-body-lg"
+          v-model="searchQuery"
+        />
+      </div>
+
+      <!-- Filtered list -->
+      <ul>
+        <li v-for="level in filteredLevels" :key="level.id">
+          {{ level.name }}
+        </li>
+      </ul>
+    </div>
+  </main>
+</template>
+
+<script>
+export default {
+  data() {
+    return {
+      searchQuery: "",
+      levels: [
+        { id: 1, name: "The Nightmare" },
+        { id: 2, name: "The Lightning Road" },
+        { id: 3, name: "Xstep v2" },
+        // …your real levels here
+      ],
+    };
+  },
+  computed: {
+    filteredLevels() {
+      return this.levels.filter((level) =>
+        level.name.toLowerCase().includes(this.searchQuery.toLowerCase())
+      );
+    },
+  },
+};
+</script>
+
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
                         <td class="rank">
