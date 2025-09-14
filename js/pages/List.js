@@ -33,6 +33,18 @@ export default {
                 />
                 <button v-if="searchQuery" @click="searchQuery = ''" class="clear-search">x</button>
             </div>
+
+        data: () => ({
+        loading: true,
+        list: [],
+        staff: [],
+        errors: [],
+        selected: 1,
+        store,
+        searchQuery: '',
+        sortOption: 0,
+        descending: true
+    }),
             
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
