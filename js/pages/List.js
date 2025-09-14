@@ -38,6 +38,9 @@ export default {
                         </td>
                     </tr>
                 </table>
+                <p v-if="list && list.length > 0 && filteredListDisplay && filteredListDisplay.length === 0" class="no-results type-body-lg">
+                No levels found matching your search.
+                </p>
 
             <script>
 export default {
