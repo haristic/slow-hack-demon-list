@@ -32,7 +32,7 @@ export default {
                     v-model="searchQuery"
                 />
                 <button v-if="searchQuery" @click="searchQuery = ''" class="clear-search">x</button>
-            </div>
+            </div>,
 
         data: () => ({
         loading: true,
