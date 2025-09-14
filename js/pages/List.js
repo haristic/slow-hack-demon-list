@@ -23,16 +23,6 @@ export default {
         <main v-else class="page-list">
             <div class="list-container">
             <input type="text" placeholder="Search by level name..." class="search-input type-body-lg">
-            
-  <main v-else class="page-list">
-    <div class="list-container">
-      <!-- Search bar -->
-      <input
-        type="text"
-        placeholder="Search by level name..."
-        class="search-input type-body-lg"
-        v-model="searchQuery"
-      />
 
       <!-- Output: filtered levels -->
       <div class="levels-output">
