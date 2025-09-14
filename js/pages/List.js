@@ -22,53 +22,6 @@ export default {
         </main>
         <main v-else class="page-list">
             <div class="list-container">
-            
-                <div class="search-wrapper">
-                    <input type="text" v-model="searchQuery" placeholder="Search by level name..." class="search-input type-body-lg">
-                </div>
-                    <table class="list" v-if="list && list.length">
-                    <tr v-for="item in filteredListDisplay" :key="item.originalIndex">
-                        <td class="rank">
-                            <p class="type-label-lg">#{{ item.originalIndex + 1 }}</p>
-                        </td>
-                        <td class="level" :class="{ 'active': selected === item.originalIndex, 'error': !item.name }">
-                            <button @click="selected = item.originalIndex">
-                                <span class="type-label-lg">{{ item.name || \`Error (\${item.err}.json)\` }}</span>
-                            </button>
-                        </td>
-                    </tr>
-                </table>
-                <p v-if="list && list.length > 0 && filteredListDisplay && filteredListDisplay.length === 0" class="no-results type-body-lg">
-                No levels found matching your search.
-                </p>
-
-            <script>
-export default {
-  data() {
-    return {
-      searchQuery: "",
-      selected: null,
-    };
-  },
-  props: {
-    list: {
-      type: Array,
-      required: true,
-    },
-},
-  computed: {
-    filteredListDisplay() {
-      if (!this.searchQuery) {
-        return this.list || [];
-      }
-      return (this.list || []).filter((item) =>
-        item.name?.toLowerCase().includes(this.searchQuery.toLowerCase())
-      );
-    },
-  },
-};
-</script>
-            
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
                         <td class="rank">
