@@ -24,7 +24,6 @@ export default {
             <div class="list-container">
             <div class="search-wrapper">…</div>
             <input type="text" placeholder="Search by level name..." class="search-input type-body-lg">
-            <template>
       <!-- Filtered list -->
       <ul>
         <li v-for="level in filteredLevels" :key="level.id">
