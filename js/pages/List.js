@@ -33,7 +33,7 @@ export default {
                         </td>
                         <td class="level" :class="{ 'active': selected === item.originalIndex, 'error': !item.name }">
                             <button @click="selected = item.originalIndex">
-                                <span class="type-label-lg">{{ item.name || `Error (${item.err}.json)` }}</span>
+                                <span class="type-label-lg">{{ item.name || \`Error (\${item.err}.json)\` }}</span>
                             </button>
                         </td>
                     </tr>
@@ -55,17 +55,6 @@ export default {
       type: Array,
       required: true,
     },
-  },
-computed: {
-  filteredListDisplay() {
-    if (!this.searchQuery) {
-      return this.list; // if nothing typed, show all
-    }
-    return this.list.filter((item) =>
-      item.name?.toLowerCase().includes(this.searchQuery.toLowerCase())
-    );
-  },
-},
 </script>
             
                 <table class="list" v-if="list">
