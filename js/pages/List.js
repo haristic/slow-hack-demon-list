@@ -24,7 +24,6 @@ export default {
             <div class="list-container">
             <div class="search-wrapper">…</div>
                   <input type="text" placeholder="Search by level name..." class="search-input type-body-lg">
-                  
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
                         <td class="rank">
