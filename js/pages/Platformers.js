@@ -55,6 +55,22 @@ export default {
                             <p>{{ level.password || 'Free to Copy' }}</p>
                         </li>
                     </ul>
+
+        <section class="levels-container">
+                <div class="levels">
+                    <template v-if="levels.length > 0">
+                        <!-- Completed Levels -->
+                        <div class="level" v-for="(level, i) in levels.slice(0, progression.length)">
+                            <a :href="level.video" class="video">
+                                <img :src="getThumbnailFromId(getYoutubeIdFromUrl(level.video))" alt="">
+                            </a>
+                            <div class="meta">
+                                <p>#{{ level.rank }}</p>
+                                <h2>{{ level.name }}</h2>
+                                <p style="color: #00b54b; font-weight: 700">{{ progression[i] }}%</p>
+                            </div>
+                        </div>
+                    
                     <h2>Records</h2>
                     <table class="records">
                         <tr v-for="record in level.records" class="record">
