@@ -63,7 +63,7 @@ export async function fetchPlatLeaderboard() {
         ) || level.verifier;
         scoreMap[verifier] ??= {
             verified: [],
-            completed: [],
+            completedplat: [],
             progressed: [],
         };
         const { verified } = scoreMap[verifier];
@@ -81,12 +81,12 @@ export async function fetchPlatLeaderboard() {
             ) || record.user;
             scoreMap[user] ??= {
                 verified: [],
-                completed: [],
+                completedplat: [],
                 progressed: [],
             };
-            const { completed, progressed } = scoreMap[user];
+            const { completedplat, progressed } = scoreMap[user];
             if (record.percent === 100) {
-                completed.push({
+                completedplat.push({
                     rank: rank + 1,
                     level: level.name,
                     score: score(rank + 1, 100, level.percentToQualify),
@@ -107,8 +107,8 @@ export async function fetchPlatLeaderboard() {
 
     // Wrap in extra Object containing the user and total score
     const res = Object.entries(scoreMap).map(([user, scores]) => {
-        const { verified, completed, progressed } = scores;
-        const total = [verified, completed, progressed]
+        const { verified, completedplat, progressed } = scores;
+        const total = [verified, completedplat, progressed]
             .flat()
             .reduce((prev, cur) => prev + cur.score, 0);
 
