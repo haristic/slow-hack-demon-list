@@ -66,7 +66,7 @@ export default {
                             <div class="meta">
                                 <p>#{{ level.rank }}</p>
                                 <h2>{{ level.name }}</h2>
-                                <p style="color: #00b54b; font-weight: 700">{{ progression[i] }}%</p>
+                                <p style="color: #00b54b; font-weight: 700"/p>
                             </div>
                         </div>
                         
