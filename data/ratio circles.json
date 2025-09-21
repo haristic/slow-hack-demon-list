@@ -9,24 +9,6 @@
     "password": "NA",
     "records": [
         {
-            "user": "zomebodyelse",
-            "link": "https://www.youtube.com/watch?v=XHJEtBICosY",
-            "percent": 100,
-            "hz": "NA"
-        },
-        {
-            "user": "ImApples",
-            "link": "https://www.youtube.com/watch?v=OFTW6l3SvAA",
-            "percent": 100,
-            "hz": "NA"
-        },
-        {
-            "user": "TheMrSeal",
-            "link": "https://www.youtube.com/watch?v=Cl2gUpvXSm8",
-            "percent": 100,
-            "hz": "NA"
-        },
-        {
             "user": "haristic",
             "link": "",
             "percent": 100,
@@ -40,6 +22,12 @@
         },
         {
             "user": "Sharken",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "DaShahzad",
             "link": "",
             "percent": 100,
             "hz": "NA"
