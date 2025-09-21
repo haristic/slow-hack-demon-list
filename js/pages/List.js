@@ -58,7 +58,6 @@ export default {
                     
                     <section class="levels-container">
                 <div class="levels">
-                    <template v-if="levels.length > 0">
                         <div class="level" v-for="(level, i) in levels.slice(0, progression.length)">
                             <a :href="level.video" class="video">
                                 <img :src="getThumbnailFromId(getYoutubeIdFromUrl(level.video))" alt="">
