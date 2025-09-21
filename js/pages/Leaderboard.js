@@ -74,19 +74,6 @@ export default {
                                 </td>
                             </tr>
                         </table>
-                        <h2 v-if="entry.completedplat.length > 0">Platformers ({{ entry.completedplat.length }})</h2>
-                        <table class="table">
-                            <tr v-for="score in entry.completedplat">
-                                <td class="rank">
-                                    <p>#{{ score.rank }}</p>
-                                </td>
-                                <td class="level">
-                                    <a class="type-label-lg" target="_blank" :href="score.link">{{ score.level }}</a>
-                                </td>
-                                <td class="score">
-                                    <p>+{{ localize(score.score) }}</p>
-                                </td>
-                            </tr>
                         </table>
                         <h2 v-if="entry.progressed.length > 0">Progressed ({{entry.progressed.length}})</h2>
                         <table class="table">
