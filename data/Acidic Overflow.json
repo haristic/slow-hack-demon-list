@@ -1,0 +1,15 @@
+{
+    "id": 120888523,
+    "name": "Acidic Overflow",
+    "author": "MatejWGD",
+    "creators": ["MatejWGD"],
+    "verifier": "MatejWGD",
+    "verification": "https://www.youtube.com/watch?v=NJxwwJM0rJE",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

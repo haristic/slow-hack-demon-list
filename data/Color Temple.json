@@ -1,0 +1,15 @@
+{
+    "id": 103570961,
+    "name": "Color Temple",
+    "author": "PolikYT",
+    "creators": ["PolikYT"],
+    "verifier": "PolikYT",
+    "verification": "https://www.youtube.com/watch?v=fey5SGx7aXM",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

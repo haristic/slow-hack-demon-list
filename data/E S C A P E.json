@@ -1,0 +1,15 @@
+{
+    "id": 113198128,
+    "name": "E S C A P E",
+    "author": "K4mel",
+    "creators": ["K4mel"],
+    "verifier": "K4mel",
+    "verification": "https://www.youtube.com/watch?v=wde0epJJvGw",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": 104838200,
+    "name": "ANTITHESIS",
+    "author": "dkitey",
+    "creators": ["dkitey"],
+    "verifier": "dkitey",
+    "verification": "https://www.youtube.com/watch?v=uNTDE5jb--k",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

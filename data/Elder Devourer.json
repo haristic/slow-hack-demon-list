@@ -1,0 +1,15 @@
+{
+    "id": 97735944,
+    "name": "Elder Devourer",
+    "author": "FrostDragonGD",
+    "creators": ["FrostDragonGD"],
+    "verifier": "FrostDragonGD",
+    "verification": "https://www.youtube.com/watch?v=fEPejBW9s1M",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

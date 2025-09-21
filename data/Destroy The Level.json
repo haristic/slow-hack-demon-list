@@ -1,0 +1,15 @@
+{
+    "id": 105608796,
+    "name": "Destroy The Level",
+    "author": "Serponge",
+    "creators": ["Serponge"],
+    "verifier": "Serponge",
+    "verification": "https://www.youtube.com/watch?v=0PIVUTGnSac",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

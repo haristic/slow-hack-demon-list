@@ -1,0 +1,15 @@
+{
+    "id": 109846069,
+    "name": "100 jumps",
+    "author": "TheRealPepsiMan",
+    "creators": ["TheRealPepsiMan"],
+    "verifier": "TheRealPepsiMan",
+    "verification": "https://www.youtube.com/watch?v=vd8WoLL-hzo",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

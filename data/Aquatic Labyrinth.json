@@ -1,0 +1,15 @@
+{
+    "id": 109975284,
+    "name": "Aquatic Labyrinth",
+    "author": "burningmagma",
+    "creators": ["burningmagma"],
+    "verifier": "burningmagma",
+    "verification": "https://www.youtube.com/watch?v=b1MSESJfhC8",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

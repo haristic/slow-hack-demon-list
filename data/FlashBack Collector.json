@@ -1,0 +1,15 @@
+{
+    "id": 112430110,
+    "name": "FlashBack Collector",
+    "author": "Ivelll",
+    "creators": ["Ivelll"],
+    "verifier": "Ivelll",
+    "verification": "https://www.youtube.com/watch?v=vkkNI0ShgWE",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

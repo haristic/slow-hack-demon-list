@@ -1,0 +1,15 @@
+{
+    "id": 112038185,
+    "name": "Dont steal my moons",
+    "author": "posdhatv",
+    "creators": ["posdhatv, JustPotatoNow"],
+    "verifier": "posdhatv",
+    "verification": "https://www.youtube.com/watch?v=aw6auMB15IY",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

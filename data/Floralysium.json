@@ -1,0 +1,15 @@
+{
+    "id": 111224610,
+    "name": "Floralysium",
+    "author": "DubbyBall",
+    "creators": ["DubbyBall"],
+    "verifier": "DubbyBall",
+    "verification": "https://www.youtube.com/watch?v=lFbZU4h4lBQ",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

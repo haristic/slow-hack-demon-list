@@ -1,0 +1,15 @@
+{
+    "id": 98291349,
+    "name": "blindsighted",
+    "author": "sowre",
+    "creators": ["sowre"],
+    "verifier": "sowre",
+    "verification": "https://www.youtube.com/watch?v=_I9SsLtZV4A",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

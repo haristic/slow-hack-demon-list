@@ -1,0 +1,15 @@
+{
+    "id": 108492038,
+    "name": "CryoMech",
+    "author": "204L",
+    "creators": ["204L"],
+    "verifier": "204L",
+    "verification": "https://www.youtube.com/watch?v=3QaKDVXoF5g",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": 111579504,
+    "name": "Difficulty Clicker",
+    "author": "burningmagma",
+    "creators": ["burningmagma"],
+    "verifier": "burningmagma",
+    "verification": "https://www.youtube.com/watch?v=tTQphnei3J8",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
