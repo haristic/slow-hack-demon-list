@@ -74,9 +74,9 @@ export default {
                                 </td>
                             </tr>
                         </table>
-                        <h2 v-if="entry.completed.length > 0">Platformers ({{ entry.completed.length }})</h2>
+                        <h2 v-if="entry.completed.length > 0">Platformers ({{ entry.completedplat.length }})</h2>
                         <table class="table">
-                            <tr v-for="score in entry.completed">
+                            <tr v-for="score in entry.completedplat">
                                 <td class="rank">
                                     <p>#{{ score.rank }}</p>
                                 </td>
