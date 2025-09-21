@@ -47,7 +47,7 @@ export async function fetchEditors() {
 }
 
 export async function fetchPlatLeaderboard() {
-    const list = await fetchList();
+    const list = await fetchPlatformers();
 
     const scoreMap = {};
     const errs = [];
