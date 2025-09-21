@@ -5,7 +5,7 @@ import { round, score } from './score.js';
  */
 const dir = '/data';
 
-export async function fetchList() {
+export async function fetchPlatformers() {
     const listResult = await fetch(`${dir}/_plats.json`);
     try {
         const list = await listResult.json();
