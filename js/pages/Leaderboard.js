@@ -74,7 +74,6 @@ export default {
                                 </td>
                             </tr>
                         </table>
-                        </table>
                         <h2 v-if="entry.progressed.length > 0">Progressed ({{entry.progressed.length}})</h2>
                         <table class="table">
                             <tr v-for="score in entry.progressed">
