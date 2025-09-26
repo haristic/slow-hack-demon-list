@@ -1,6 +1,6 @@
 {
     "id": "",
-    "name": "outlive",
+    "name": "Outlive",
     "author": "",
     "creators": [],
     "verifier": "",
@@ -10,6 +10,12 @@
     "records": [
         {
             "user": "DaShahzad",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "Sheepyboy",
             "link": "",
             "percent": 100,
             "hz": "NA"
