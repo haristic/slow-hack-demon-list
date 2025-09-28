@@ -1,12 +1,12 @@
 {
-    "id": "NA",
+    "modes": "Cube, Ship, Ball, Wave, Robot",
     "name": "Unite",
     "author": "",
     "creators": [],
     "verifier": "",
     "verification": "https://www.youtube.com/watch?v=FFGnfLTzB8w",
     "percentToQualify": "100",
-    "password": "NA",
+    "rating": "NA",
     "records": [
         {
             "user": "Sharken",
