@@ -50,6 +50,10 @@ export default {
                             <div class="type-title-sm">Modes</div>
                             <p>{{ level.modes }}</p>
                         </li>
+                        <li>
+                            <div class="type-title-sm">Speeds</div>
+                            <p>{{ level.speeds }}</p>
+                        </li>
                     </ul>  
                     <h2>Records</h2>
                     <table class="records">
