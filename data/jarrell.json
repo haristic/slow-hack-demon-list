@@ -1,12 +1,12 @@
 {
-    "id": 95324136,
+    "modes": "Cube, Ship, Ball, UFO, Wave",
     "name": "Jarrell",
     "author": "magnut",
     "creators": [],
     "verifier": "magnut",
     "verification": "https://www.youtube.com/watch?v=KHK8-vV7fm4",
     "percentToQualify": "100",
-    "password": "NA",
+    "rating": "NA",
     "records": [
         {
             "user": "Sheepyboy",
@@ -16,6 +16,12 @@
         },
         {
             "user": "Sharken",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "WKGames",
             "link": "",
             "percent": 100,
             "hz": "NA"
