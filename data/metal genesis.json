@@ -1,5 +1,5 @@
 {
-    "mode": "Cube, Ship, Ball, UFO, Wave",
+    "modes": "Cube, Ship, Ball, UFO, Wave",
     "name": "Metal Genesis",
     "author": "CairoX",
     "creators": [],
