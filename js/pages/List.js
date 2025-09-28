@@ -51,10 +51,10 @@ export default {
                             <p>{{ level.modes }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">Speeds</div>
-                            <p>{{ level.speeds }}</p>
+                            <div class="type-title-sm">Rating</div>
+                            <p>{{ level.rating }}</p>
                         </li>
-                    </ul>  
+                    </ul>
                     <h2>Records</h2>
                     <table class="records">
                         <tr v-for="record in level.records" class="record">
