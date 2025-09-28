@@ -1,12 +1,12 @@
 {
-    "id": "79224367",
+    "modes": "Cube, Ship, Ball, Robot, Spider",
     "name": "Hollowing",
     "author": "ilTesseractli",
     "creators": ["ilTesseractli, pocke, twigxcabaret"],
     "verifier": "ilTesseractli",
     "verification": "https://www.youtube.com/watch?v=4jjigA_H1n4",
     "percentToQualify": "100",
-    "password": "NA",
+    "rating": "NA",
     "records": [
         {
             "user": "FranPes",
