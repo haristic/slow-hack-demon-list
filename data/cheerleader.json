@@ -1,7 +1,7 @@
 {
     "modes": "Cube, Ball",
     "name": "CHEERLEADER",
-    "author": "",
+    "author": "JustWaaf",
     "creators": [],
     "verifier": "",
     "verification": "https://www.youtube.com/watch?v=ipaF1cpH5iE",
@@ -22,6 +22,12 @@
         },
         {
             "user": "Sheepyboy",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "SirManFace",
             "link": "",
             "percent": 100,
             "hz": "NA"
