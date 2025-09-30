@@ -1,7 +1,7 @@
 {
     "modes": "",
     "name": "yeet of dOOM",
-    "author": "",
+    "author": "Elisione",
     "creators": [],
     "verifier": "",
     "verification": "",
@@ -16,6 +16,12 @@
         },
         {
             "user": "FrostSparkNew",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "DaShahzad",
             "link": "",
             "percent": 100,
             "hz": "NA"
