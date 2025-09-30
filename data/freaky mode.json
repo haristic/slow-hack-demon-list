@@ -1,7 +1,7 @@
 {
     "id": "NA",
     "name": "FREAKY MODE",
-    "author": "",
+    "author": "Tro5",
     "creators": [],
     "verifier": "",
     "verification": "",
@@ -10,6 +10,12 @@
     "records": [
         {
             "user": "DaShahzad",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "SirManFace",
             "link": "",
             "percent": 100,
             "hz": "NA"
