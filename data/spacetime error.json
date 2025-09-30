@@ -1,12 +1,18 @@
 {
     "id": "NA",
     "name": "Spacetime Error",
-    "author": "",
+    "author": "mayerosa",
     "creators": [],
     "verifier": "",
     "verification": "",
     "percentToQualify": "100",
     "password": "NA",
     "records": [
+        {
+            "user": "SirManFace",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
     ]
 }
