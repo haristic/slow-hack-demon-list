@@ -1,7 +1,7 @@
 {
     "id": "NA",
     "name": "Electrical Room",
-    "author": "",
+    "author": "LightPotatoDev",
     "creators": [],
     "verifier": "",
     "verification": "",
@@ -22,6 +22,12 @@
         },
         {
             "user": "DaShahzad",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "SirManFace",
             "link": "",
             "percent": 100,
             "hz": "NA"
