@@ -1,7 +1,7 @@
 {
     "id": "NA",
     "name": "Development",
-    "author": "",
+    "author": "Dudex",
     "creators": [],
     "verifier": "",
     "verification": "",
@@ -16,6 +16,12 @@
         },
         {
             "user": "Sheepyboy",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "SirManFace",
             "link": "",
             "percent": 100,
             "hz": "NA"
