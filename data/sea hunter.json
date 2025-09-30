@@ -1,7 +1,7 @@
 {
     "id": "NA",
     "name": "Sea Hunter",
-    "author": "",
+    "author": "DaVyZ",
     "creators": [],
     "verifier": "",
     "verification": "",
@@ -10,6 +10,12 @@
     "records": [
         {
             "user": "DaShahzad",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "SirManFace",
             "link": "",
             "percent": 100,
             "hz": "NA"
