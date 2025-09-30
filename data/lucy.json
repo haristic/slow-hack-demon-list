@@ -1,7 +1,7 @@
 {
     "id": "NA",
     "name": "Lucy",
-    "author": "",
+    "author": "Lyal",
     "creators": [],
     "verifier": "",
     "verification": "",
@@ -22,6 +22,12 @@
         },
         {
             "user": "Sheepyboy",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "SirManFace",
             "link": "",
             "percent": 100,
             "hz": "NA"
