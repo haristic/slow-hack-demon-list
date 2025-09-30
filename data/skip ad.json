@@ -1,7 +1,7 @@
 {
     "modes": "",
     "name": "skip ad",
-    "author": "",
+    "author": "Vitto918",
     "creators": [],
     "verifier": "",
     "verification": "",
@@ -16,6 +16,12 @@
         },
         {
             "user": "SirManFace",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "DaShahzad",
             "link": "",
             "percent": 100,
             "hz": "NA"
