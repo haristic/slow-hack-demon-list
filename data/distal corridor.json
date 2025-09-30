@@ -1,7 +1,7 @@
 {
     "id": "NA",
     "name": "distal corridor",
-    "author": "",
+    "author": "shodai1128",
     "creators": [],
     "verifier": "",
     "verification": "",
@@ -28,6 +28,12 @@
         },
         {
             "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "SirManFace",
             "link": "",
             "percent": 100,
             "hz": "NA"
