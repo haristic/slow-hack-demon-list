@@ -1,7 +1,7 @@
 {
     "modes": "",
     "name": "Beautiful Chaos",
-    "author": "",
+    "author": "darnoc2",
     "creators": [],
     "verifier": "",
     "verification": "",
@@ -22,6 +22,12 @@
         },
         {
             "user": "SirManFace",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "DaShahzad",
             "link": "",
             "percent": 100,
             "hz": "NA"
