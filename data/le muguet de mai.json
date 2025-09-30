@@ -1,7 +1,7 @@
 {
     "id": "NA",
     "name": "Le Muguet de Mai",
-    "author": "",
+    "author": "Furorem",
     "creators": [],
     "verifier": "",
     "verification": "",
@@ -10,6 +10,12 @@
     "records": [
         {
             "user": "Sheepyboy",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "SirManFace",
             "link": "",
             "percent": 100,
             "hz": "NA"
