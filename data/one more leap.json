@@ -1,7 +1,7 @@
 {
     "id": "NA",
     "name": "One more leap",
-    "author": "",
+    "author": "RaveDino",
     "creators": [],
     "verifier": "",
     "verification": "",
@@ -16,6 +16,12 @@
         },
         {
             "user": "FrostSparkNew",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "haristic",
             "link": "",
             "percent": 100,
             "hz": "NA"
