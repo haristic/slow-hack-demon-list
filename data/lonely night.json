@@ -1,7 +1,7 @@
 {
     "id": "NA",
     "name": "Lonely Night",
-    "author": "",
+    "author": "ValkyrieMaster",
     "creators": [],
     "verifier": "",
     "verification": "",
@@ -16,6 +16,12 @@
         },
         {
             "user": "DaShahzad",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "SirManFace",
             "link": "",
             "percent": 100,
             "hz": "NA"
