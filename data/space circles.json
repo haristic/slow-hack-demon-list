@@ -1,7 +1,7 @@
 {
     "id": "NA",
     "name": "Space Circles",
-    "author": "",
+    "author": "SUOMI",
     "creators": [],
     "verifier": "",
     "verification": "",
@@ -16,6 +16,12 @@
         },
         {
             "user": "dennygds",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "SirManFace",
             "link": "",
             "percent": 100,
             "hz": "NA"
