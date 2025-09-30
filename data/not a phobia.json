@@ -1,7 +1,7 @@
 {
     "id": "NA",
     "name": "Not a Phobia",
-    "author": "",
+    "author": "EnZore",
     "creators": [],
     "verifier": "",
     "verification": "",
@@ -16,6 +16,12 @@
         },
         {
             "user": "SirManFace",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "DaShahzad",
             "link": "",
             "percent": 100,
             "hz": "NA"
