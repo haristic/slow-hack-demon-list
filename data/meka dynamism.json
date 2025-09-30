@@ -1,7 +1,7 @@
 {
     "id": "NA",
     "name": "Meka Dynamism",
-    "author": "",
+    "author": "xVicoGD",
     "creators": [],
     "verifier": "",
     "verification": "",
@@ -10,6 +10,12 @@
     "records": [
         {
             "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "SirManFace",
             "link": "",
             "percent": 100,
             "hz": "NA"
