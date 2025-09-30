@@ -1,7 +1,7 @@
 {
     "id": "NA",
     "name": "Peter the Alien",
-    "author": "",
+    "author": "FroxyPlay",
     "creators": [],
     "verifier": "",
     "verification": "",
@@ -16,6 +16,12 @@
         },
         {
             "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "SirManFace",
             "link": "",
             "percent": 100,
             "hz": "NA"
