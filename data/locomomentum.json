@@ -1,7 +1,7 @@
 {
     "modes": "",
     "name": "Locomomentum",
-    "author": "",
+    "author": "seannnn",
     "creators": [],
     "verifier": "",
     "verification": "",
@@ -16,6 +16,12 @@
         },
         {
             "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "DaShahzad",
             "link": "",
             "percent": 100,
             "hz": "NA"
