@@ -57,6 +57,16 @@ export default {
                     </ul>
                     <ul class="stats">
                     <h2>Similar Levels</h2>
+                    <table class="table">
+                            <tr v-for="score in level.similar">
+                                <td class="rank">
+                                    <p>#{{ score.rank }}</p>
+                                </td>
+                                <td class="level">
+                                    <a class="type-label-lg" target="_blank" :href="score.link">{{ score.level }}</a>
+                                </td>
+                            </tr>
+                        </table>
                     <table class="records">
                     <h2>Records</h2>
                         <tr v-for="record in level.records" class="record">
