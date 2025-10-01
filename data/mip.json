@@ -1,7 +1,7 @@
 {
     "id": "NA",
     "name": "Mip",
-    "author": "",
+    "author": "Silouute",
     "creators": [],
     "verifier": "",
     "verification": "",
@@ -10,6 +10,12 @@
     "records": [
         {
             "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "DaShahzad",
             "link": "",
             "percent": 100,
             "hz": "NA"
