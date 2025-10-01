@@ -57,11 +57,11 @@ export default {
                     </ul>
                     <ul class="stats">
                     <table class="records">
-                    <h2>Records</h2>
                         <tr v-for="record in level.records" class="record">
                             <td class="percent">
                                 <p>{{ record.percent }}%</p>
                             </td>
+                            <h2>Records</h2>
                             <td class="user">
                                 <a :href="record.link" target="_blank" class="type-label-lg">{{ record.user }}</a>
                             </td>
