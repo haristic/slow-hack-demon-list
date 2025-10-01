@@ -55,6 +55,7 @@ export default {
                             <p>{{ level.rating }}</p>
                         </li>
                     </ul>
+                    <h2>Similar Levels</h2>
                     <h2>Records</h2>
                     <table class="records">
                         <tr v-for="record in level.records" class="record">
