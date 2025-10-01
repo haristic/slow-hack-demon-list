@@ -57,6 +57,7 @@ export default {
                     </ul>
                     <ul class="stats">
                     <table class="records">
+                    <h2>Similar Levels</h2>
                     <h2>Records</h2>
                         <tr v-for="record in level.records" class="record">
                             <td class="percent">
@@ -69,7 +70,6 @@ export default {
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
                         </tr>
-                        <h2>Similar Levels</h2>
                     </table>
                     </ul>
                 </div>
