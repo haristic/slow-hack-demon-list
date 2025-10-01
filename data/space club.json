@@ -1,7 +1,7 @@
 {
     "id": "NA",
     "name": "Space Club",
-    "author": "",
+    "author": "D0meR",
     "creators": [],
     "verifier": "",
     "verification": "",
@@ -10,6 +10,12 @@
     "records": [
         {
             "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "DaShahzad",
             "link": "",
             "percent": 100,
             "hz": "NA"
