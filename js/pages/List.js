@@ -58,7 +58,6 @@ export default {
                     <ul class="stats">
                     <h2>Similar Levels</h2>
                     <table class="records">
-                    <div class="type-title-sm">Records</div>
                     <h2>Records</h2>
                         <tr v-for="record in level.records" class="record">
                             <td class="percent">
