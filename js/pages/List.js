@@ -69,6 +69,7 @@ export default {
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
                         </tr>
+                        <h2>Similar Levels</h2>
                     </table>
                     </ul>
                 </div>
