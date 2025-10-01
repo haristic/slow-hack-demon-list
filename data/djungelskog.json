@@ -1,0 +1,24 @@
+{
+    "id": "NA",
+    "name": "DJUNGELSKOG",
+    "author": "Xeinth",
+    "creators": [],
+    "verifier": "Xeinth",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "NA",
+    "records": [
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "SirManFace",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
+    ]
+}
