@@ -55,6 +55,7 @@ export default {
                             <p>{{ level.rating }}</p>
                         </li>
                     </ul>
+                    <ul class="stats">
                     <h2>Similar Levels</h2>
                     <h2>Records</h2>
                     <table class="records">
@@ -73,6 +74,7 @@ export default {
                             </td>
                         </tr>
                     </table>
+                    </ul>
                 </div>
                 <div v-else class="level" style="height: 100%; justify-content: center; align-items: center;">
                     <p>(ノಠ益ಠ)ノ彡┻━┻</p>
