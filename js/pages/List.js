@@ -56,7 +56,6 @@ export default {
                         </li>
                     </ul>
                     <ul class="stats">
-                    <h2>Similar Levels</h2>
                     <h2>Records</h2>
                     <table class="records">
                         <tr v-for="record in level.records" class="record">
