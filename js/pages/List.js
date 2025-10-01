@@ -57,8 +57,8 @@ export default {
                     </ul>
                     <ul class="stats">
                     <table class="records">
+                    <h2>Records</h2>
                         <tr v-for="record in level.records" class="record">
-                        <h2>Records</h2>
                             <td class="percent">
                                 <p>{{ record.percent }}%</p>
                             </td>
