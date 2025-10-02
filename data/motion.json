@@ -1,0 +1,24 @@
+{
+    "modes": "",
+    "name": "Motion",
+    "author": "TamaN",
+    "creators": ["TamaN"],
+    "verifier": "TamaN",
+    "verification": "https://www.youtube.com/watch?v=m0fy7reQVJQ",
+    "rating": "",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "SirManFace",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "Sheepyboy",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
+    ]
+}
