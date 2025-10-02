@@ -1,0 +1,24 @@
+{
+    "modes": "",
+    "name": "Hue Effect",
+    "author": "Zoroa",
+    "creators": ["Zoroa"],
+    "verifier": "Zoroa",
+    "verification": "https://www.youtube.com/watch?v=NGG9HGXtqUo",
+    "rating": "",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "FrostSparkGMD",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "SirManFace",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
+    ]
+}
