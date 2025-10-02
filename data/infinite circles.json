@@ -1,0 +1,24 @@
+{
+    "modes": "",
+    "name": "infinite circles",
+    "author": "startor",
+    "creators": ["startor"],
+    "verifier": "startor",
+    "verification": "https://www.youtube.com/watch?v=NGG9HGXtqUo",
+    "rating": "",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "DaShahzad",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
+    ]
+}
