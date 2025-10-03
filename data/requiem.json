@@ -1,0 +1,24 @@
+{
+    "modes": "",
+    "name": "Requiem",
+    "author": "FunnyGame",
+    "creators": ["FunnyGame"],
+    "verifier": "FunnyGame",
+    "verification": "https://www.youtube.com/watch?v=-WwTG4WePIo",
+    "rating": "",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "SirManface",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
+    ]
+}
