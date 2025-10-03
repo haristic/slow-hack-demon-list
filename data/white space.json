@@ -1,0 +1,30 @@
+{
+    "modes": "",
+    "name": "White Space",
+    "author": "Xender Game",
+    "creators": ["Xender Game"],
+    "verifier": "Xender Game",
+    "verification": "https://www.youtube.com/watch?v=1O0d1A6GuSA",
+    "rating": "",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "SirManface",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "Sheepyboy",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
+    ]
+}
