@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "rating": "NA",
     "records": [
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
     ]
 }
