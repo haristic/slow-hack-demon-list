@@ -9,13 +9,19 @@
     "percentToQualify": "100",
     "records": [
         {
-            "user": "FrostSparkGMD",
+            "user": "FrostSparkNew",
             "link": "",
             "percent": 100,
             "hz": "NA"
         },
         {
             "user": "Sheepyboy",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "WKGames",
             "link": "",
             "percent": 100,
             "hz": "NA"
