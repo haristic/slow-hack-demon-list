@@ -33,7 +33,7 @@ export default {
                     />
                 </div>
             
-                <table class="list" v-if="list">
+                <table class="list" v-if="filterList">
                     <tr v-for="([level, err], i) in list">
                         <td class="rank">
                             <p v-if="i + 1 <= 150" class="type-label-lg">#{{ i + 1 }}</p>
