@@ -33,20 +33,24 @@ export default {
                     />
                 </div>
             
-                <table class="list" v-if="list">
-                    <tr v-for="([level, err], i) in list">
+                <table class="list" v-if="filteredList.length">
+                    <tr v-for="(item, i) in filteredList">
                         <td class="rank">
-                            <p v-if="i + 1 <= 150" class="type-label-lg">#{{ i + 1 }}</p>
-                            <p v-else class="type-label-lg">#{{ i + 1 }}</p>
+                            <p v-if="item.originalIndex + 1 <= 150" class="type-label-lg">#{{ item.originalIndex + 1 }}</p>
+                            <p v-else class="type-label-lg">Legacy</p>
                         </td>
-                        <td class="level" :class="{ 'active': selected == i, 'error': !level }">
-                            <button @click="selected = i">
-                                <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
+                        <td class="level" :class="{ 'active': selected == item.originalIndex, 'error': !item.level }">
+                            <button @click="selected = item.originalIndex">
+                                <span class="type-label-lg">{{ item.level?.name || \`Error (\${item.err}.json)\` }}</span>
                             </button>
                         </td>
                     </tr>
                 </table>
+                <div v-else-if="searchQuery && !filteredList.length" class="no-results">
+                    <p>No levels found matching "{{ searchQuery }}"</p>
+                </div>
             </div>
+            
             <div class="level-container">
                 <div class="level" v-if="level">
                     <h1>{{ level.name }}</h1>
