@@ -24,7 +24,7 @@ export default {
             <div class="list-container">
 
   <div class="search-container">
-    <input type="text" id="search" placeholder="Search..." />
+    <input type="text" id="search" placeholder="Search... (Work In Progress)" />
   </div>
   <script src="search.js"></script>
 
