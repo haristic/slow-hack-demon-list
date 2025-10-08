@@ -1,4 +1,4 @@
-const searchInput = document.data('search');
+const searchInput = document.querySelectorAll('search');
 const listItems = document.querySelectorAll('#_list li');
 
 searchInput.data('input', function() {
