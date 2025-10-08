@@ -44,6 +44,22 @@
                 <router-link class="nav__tab" to="/">
                     <span class="type-label-lg">List</span>
                     </router-link>
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Search Bar Example</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="search-container">
+    <input type="text" id="search" placeholder="Search..." />
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
+                
                 <router-link class="nav__tab" to="/leaderboard">
                     <span class="type-label-lg">Leaderboard</span>
                 </router-link>
@@ -68,22 +84,6 @@
                 </div>
             </nav>
         </header>
-
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Search Bar Example</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <div class="search-container">
-    <input type="text" id="search" placeholder="Search..." />
-  </div>
-  <script src="script.js"></script>
-</body>
-</html>
-        
         <router-view :class="{ dark: store.dark }"></router-view>
     </body>
 </html>
