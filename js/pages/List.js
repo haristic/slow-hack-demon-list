@@ -23,13 +23,15 @@ export default {
         <main v-else class="page-list">
             <div class="list-container">
 
-  <div class="search-container">
-    <input type="text" id="search" placeholder="Search... (WIP)" />
-  </div>
-  <script src="search.js"></script>
-
-  <div id="_list">
-</div>
+                <div class="search-container">
+                    <input
+                        type="text"
+                        v-model="searchQuery"
+                        placeholder="Search levels..."
+                        class="search-input"
+                        @input="filterList"
+                    />
+                </div>
             
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
