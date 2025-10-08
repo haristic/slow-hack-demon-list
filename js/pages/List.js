@@ -22,6 +22,22 @@ export default {
         </main>
         <main v-else class="page-list">
             <div class="list-container">
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Search Bar Example</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="search-container">
+    <input type="text" id="search" placeholder="Search..." />
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
+            
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
                         <td class="rank">
