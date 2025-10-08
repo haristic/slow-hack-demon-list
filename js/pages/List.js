@@ -29,8 +29,6 @@ export default {
   <script src="search.js"></script>
 
   <div id="_list">
-  <.level-name>Level 1</.level-name>
-  <.level-name>Level 2</.level-name>
 </div>
             
                 <table class="list" v-if="list">
