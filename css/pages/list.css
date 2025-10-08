@@ -6,6 +6,33 @@
 .page-list .list-container {
     padding-inline: 1rem;
 }
+
+.page-list .search-container {
+    margin-bottom: 1rem;
+}
+
+.page-list .search-input {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    border: none;
+    border-radius: 0.5rem;
+    background-color: var(--color-background);
+    color: var(--color-on-background);
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 1rem;
+}
+
+.page-list .search-input:focus {
+    outline: 2px solid var(--color-primary);
+}
+
+.page-list .no-results {
+    padding: 1rem;
+    text-align: center;
+    background-color: var(--color-background);
+    border-radius: 0.5rem;
+}
+
 .page-list .meta-container {
     padding-right: 2rem;
 }
