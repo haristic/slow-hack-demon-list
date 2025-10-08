@@ -21,13 +21,13 @@ export default {
             <Spinner></Spinner>
         </main>
         <main v-else class="page-list">
-
-<div class="search-wrapper">
-        <input type="text" placeholder="Search by level name..." class="search-input type-body-lg">
-        
             <div class="list-container">
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
+
+<div class="search-wrapper">
+        <input type="text" placeholder="Search by level name..." class="search-input type-body-lg">
+                    
                         <td class="rank">
                             <p v-if="i + 1 <= 150" class="type-label-lg">#{{ i + 1 }}</p>
                             <p v-else class="type-label-lg">#{{ i + 1 }}</p>
