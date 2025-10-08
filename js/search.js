@@ -1,7 +1,7 @@
-const searchInput = document.getElementById('search');
+const searchInput = document.data('search');
 const listItems = document.querySelectorAll('#list li');
 
-searchInput.addEventListener('input', function() {
+searchInput.data('input', function() {
   const query = this.value.toLowerCase();
 
   listItems.forEach(item => {
