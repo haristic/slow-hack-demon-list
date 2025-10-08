@@ -25,7 +25,7 @@ export default {
 
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-2">
   <title>Search Bar Example</title>
 </head>
 <body>
