@@ -126,3 +126,24 @@
 .page-list .meta .editors li a:hover {
     text-decoration: underline;
 }
+
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+}
+
+
+
+.search-container {
+  margin-bottom: 1rem;
+}
+
+#search {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
