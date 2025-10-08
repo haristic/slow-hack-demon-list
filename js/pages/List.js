@@ -27,12 +27,10 @@ export default {
 <head>
   <title>Search Bar Example</title>
 </head>
-<body>
   <div class="search-container">
     <input type="text" id="search" placeholder="Search..." />
   </div>
   <script src="search.js"></script>
-</body>
 </html>
             
                 <table class="list" v-if="list">
