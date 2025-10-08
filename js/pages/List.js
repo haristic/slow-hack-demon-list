@@ -27,6 +27,11 @@ export default {
     <input type="text" id="search" placeholder="Search..." />
   </div>
   <script src="search.js"></script>
+
+  <ul id="_list">
+  <.level>Level 1</.level>
+  <.level>Level 2</.level>
+</ul>
             
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
