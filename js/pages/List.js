@@ -36,10 +36,10 @@ export default {
                     </tr>
                 </table>
             </div>
-
-<div class="search-wrapper">
-        <input type="text" placeholder="Search by level name..." class="search-input type-body-lg">
             
+            <div class="search-wrapper">
+        <input type="text" placeholder="Search by level name..." class="search-input type-body-lg">
+        
             <div class="level-container">
                 <div class="level" v-if="level">
                     <h1>{{ level.name }}</h1>
