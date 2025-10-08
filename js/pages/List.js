@@ -34,7 +34,7 @@ export default {
   <div class="search-container">
     <input type="text" id="search" placeholder="Search..." />
   </div>
-  <script src="script.js"></script>
+  <script src="search.js"></script>
 </body>
 </html>
             
