@@ -56,10 +56,6 @@ export default {
                             <p>{{ score(selected + 1, 100, level.percentToQualify) }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">Modes</div>
-                            <p>{{ level.modes }}</p>
-                        </li>
-                        <li>
                             <div class="type-title-sm">Rating</div>
                             <p>{{ level.rating }}</p>
                         </li>
