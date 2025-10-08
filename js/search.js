@@ -1,7 +1,7 @@
 const searchInput = document.getElementById('search');
 const listItems = document.data('#_list level-name');
 
-searchInput.data('input', function() {
+searchInput.getElementById('input', function() {
   const query = this.value.toLowerCase();
 
   listItems.forEach(item => {
