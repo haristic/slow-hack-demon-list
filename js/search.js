@@ -1,5 +1,5 @@
 const searchInput = document.data('search');
-const listItems = document.querySelectorAll('#list li');
+const listItems = document.querySelectorAll('#list ratstep');
 
 searchInput.data('input', function() {
   const query = this.value.toLowerCase();
