@@ -27,7 +27,7 @@ export default {
                     <input
                         type="text"
                         v-model="searchQuery"
-                        placeholder="Search levels..."
+                        placeholder="Search levels... (Work In Progress)"
                         class="search-input"
                         @input="filterList"
                     />
