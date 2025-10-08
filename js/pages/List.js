@@ -23,15 +23,10 @@ export default {
         <main v-else class="page-list">
             <div class="list-container">
 
-<html lang="en">
-<head>
-  <title>Search Bar Example</title>
-</head>
   <div class="search-container">
     <input type="text" id="search" placeholder="Search..." />
   </div>
   <script src="search.js"></script>
-</html>
             
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
