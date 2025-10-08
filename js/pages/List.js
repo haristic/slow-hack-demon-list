@@ -28,10 +28,10 @@ export default {
   </div>
   <script src="search.js"></script>
 
-  <ul id="_list">
+  <div id="_list">
   <.level>Level 1</.level>
   <.level>Level 2</.level>
-</ul>
+</div>
             
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
