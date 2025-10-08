@@ -26,7 +26,6 @@ export default {
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=0.1">
   <title>Search Bar Example</title>
 </head>
 <body>
