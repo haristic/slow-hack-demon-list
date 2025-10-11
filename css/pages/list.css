@@ -8,6 +8,7 @@
 }
 
 .page-list .search-container {
+    color: var(--color-on-background);
     margin-bottom: 1rem;
 }
 
