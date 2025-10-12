@@ -1,0 +1,18 @@
+{
+    "id": "NA",
+    "name": "Choices",
+    "author": "Hir0shi",
+    "creators": ["Hir0shi, Woomy"],
+    "verifier": "Hir0shi",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "NA",
+    "records": [
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
+    ]
+}
