@@ -1,0 +1,18 @@
+{
+    "id": "NA",
+    "name": "Funkylicious",
+    "author": "Swib",
+    "creators": ["Swib, Joaquinvega, Psychii, Bli, Ow3nGD, Siloutte, chillerGD"],
+    "verifier": "Swib",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "NA",
+    "records": [
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
+    ]
+}
