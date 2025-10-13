@@ -1,0 +1,30 @@
+{
+    "modes": "",
+    "name": "Mil Noches",
+    "author": "Nikce",
+    "creators": [""],
+    "verifier": "",
+    "verification": "",
+    "rating": "",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "SirManface",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "Sheepyboy",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
+    ]
+}
