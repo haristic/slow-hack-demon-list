@@ -1,0 +1,24 @@
+{
+    "id": "NA",
+    "name": "Twee",
+    "author": "PAHC",
+    "creators": ["PAHC, zachly"],
+    "verifier": "PAHC",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "NA",
+    "records": [
+        {
+            "user": "YagiGD",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
+    ]
+}
