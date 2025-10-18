@@ -1,0 +1,18 @@
+{
+    "id": "NA",
+    "name": "Smoke Signals",
+    "author": "DarkCacti",
+    "creators": ["DarkCacti, Mangut, Vel",],
+    "verifier": "DarkCacti",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "NA",
+    "records": [
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
+    ]
+}
