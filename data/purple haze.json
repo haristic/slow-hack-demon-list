@@ -1,0 +1,24 @@
+{
+    "modes": "",
+    "name": "Purple Haze",
+    "author": "rin999",
+    "creators": [""],
+    "verifier": "",
+    "verification": "",
+    "rating": "",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "SirManface",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
+    ]
+}
