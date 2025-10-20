@@ -1,0 +1,24 @@
+{
+    "modes": "",
+    "name": "Cybernetic Tech",
+    "author": "DangerKat",
+    "creators": [""],
+    "verifier": "",
+    "verification": "",
+    "rating": "",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "SirManface",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
+    ]
+}
