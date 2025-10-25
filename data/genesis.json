@@ -1,0 +1,18 @@
+{
+    "id": "NA",
+    "name": "Genesis",
+    "author": "FunnyGame",
+    "creators": [],
+    "verifier": "FunnyGame",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "NA",
+    "records": [
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
+    ]
+}
