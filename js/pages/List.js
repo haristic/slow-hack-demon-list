@@ -146,6 +146,15 @@ export default {
         roleIconMap,
         store
     }), 
+    data2: () => ({
+        list: [],
+        editors: [],
+        loading: true,
+        selected: 0,
+        errors: [],
+        roleIconMap,
+        store
+    }), 
     computed: {
         level() {
             return this.list[this.selected][0];
