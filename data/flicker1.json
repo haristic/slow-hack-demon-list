@@ -1,0 +1,18 @@
+{
+    "id": "NA",
+    "name": "Flicker",
+    "author": "CuaeR",
+    "creators": ["CuaeR, linus02"],
+    "verifier": "CuaeR",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "NA",
+    "records": [
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
+    ]
+}
