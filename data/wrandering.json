@@ -1,0 +1,24 @@
+{
+    "modes": "",
+    "name": "Wrandering",
+    "author": "Experience D",
+    "creators": [""],
+    "verifier": "",
+    "verification": "",
+    "rating": "",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "Sheepyboy",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
+    ]
+}
