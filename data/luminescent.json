@@ -9,6 +9,12 @@
     "rating": "7.5/10",
     "records": [
         {
+            "user": "FrqshGMD",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
             "user": "Sharken",
             "link": "",
             "percent": 100,
@@ -34,6 +40,12 @@
         },
         {
             "user": "SirManFace",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "WKGames",
             "link": "",
             "percent": 100,
             "hz": "NA"
