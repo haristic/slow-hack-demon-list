@@ -32,7 +32,7 @@
             "percent": 100,
             "hz": "NA"
         },
-         {
+        {
             "user": "FranPes",
             "link": "https://www.youtube.com/watch?v=ZNCKzw0KUeE",
             "percent": 100,
@@ -40,6 +40,12 @@
         },
         {
             "user": "Beenitiger",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "FrqshGMD",
             "link": "",
             "percent": 100,
             "hz": "NA"
@@ -88,6 +94,12 @@
         },
         {
             "user": "SirManFace",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "WKGames",
             "link": "",
             "percent": 100,
             "hz": "NA"
