@@ -1,0 +1,24 @@
+{
+    "id": "NA",
+    "name": "SUPERCHARGE",
+    "author": "Elvii",
+    "creators": [],
+    "verifier": "Goldino",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "NA",
+    "records": [
+        {
+            "user": "gabac17",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
+    ]
+}
