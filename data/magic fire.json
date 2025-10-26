@@ -1,0 +1,24 @@
+{
+    "id": "NA",
+    "name": "Magic fire",
+    "author": "ByBoy 11",
+    "creators": [],
+    "verifier": "ByBoy 11",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "NA",
+    "records": [
+        {
+            "user": "gabac17",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
+    ]
+}
