@@ -1,0 +1,24 @@
+{
+    "id": "NA",
+    "name": "Not My Style",
+    "author": "dolphe",
+    "creators": [],
+    "verifier": "dolphe",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "NA",
+    "records": [
+        {
+            "user": "FrqshGMD",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
+    ]
+}
