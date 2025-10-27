@@ -1,13 +1,19 @@
 {
     "modes": "",
     "name": "Neon Castle",
-    "author": "",
+    "author": "PotatoBaby",
     "creators": [],
-    "verifier": "",
+    "verifier": "PotatoBaby",
     "verification": "",
     "rating": "",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Icozen",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
         {
             "user": "Sheepyboy",
             "link": "",
