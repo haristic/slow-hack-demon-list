@@ -3,11 +3,17 @@
     "name": "Crazy",
     "author": "Player",
     "creators": [],
-    "verifier": "",
+    "verifier": "Player",
     "verification": "",
     "percentToQualify": "100",
     "password": "NA",
     "records": [
+        {
+            "user": "RoarMill",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
         {
             "user": "WKGames",
             "link": "",
