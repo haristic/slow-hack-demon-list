@@ -9,12 +9,6 @@
     "rating": "3.0/10",
     "records": [
         {
-            "user": "ashton124312",
-            "link": "",
-            "percent": 100,
-            "hz": "NA"
-        },
-        {
             "user": "RoarMill",
             "link": "",
             "percent": 100,
@@ -64,6 +58,12 @@
         },
         {
             "user": "AceK58",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "augusteldx",
             "link": "",
             "percent": 100,
             "hz": "NA"
