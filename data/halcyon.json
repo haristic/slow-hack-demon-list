@@ -9,6 +9,12 @@
     "password": "NA",
     "records": [
         {
+            "user": "augusteldx",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
             "user": "DaShahzad",
             "link": "",
             "percent": 100,
@@ -16,6 +22,12 @@
         },
         {
             "user": "SirManFace",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "WKGames",
             "link": "",
             "percent": 100,
             "hz": "NA"
