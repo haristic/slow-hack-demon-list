@@ -8,15 +8,15 @@
     "percentToQualify": 100,
     "password": "NA",
     "records": [
-        {
-            "user": "KrmaL",
-            "link": "https://www.youtube.com/watch?v=JLj4vQz0Yv0&list=RDJLj4vQz0Yv0&start_radio=1",
-            "percent": 100,
-            "hz": "60"
-         },
          {
             "user": "FranPes",
             "link": "https://www.youtube.com/watch?v=ZNCKzw0KUeE",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "augusteldx",
+            "link": "",
             "percent": 100,
             "hz": "NA"
         },
