@@ -1,0 +1,18 @@
+{
+    "id": "NA",
+    "name": "Reality Bang",
+    "author": "zatexdoom",
+    "creators": ["zatexdoom, nmav7, Xultrux2"],
+    "verifier": "zatexdoom",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "NA",
+    "records": [
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
+    ]
+}
