@@ -1,0 +1,18 @@
+{
+    "id": "NA",
+    "name": "backboard",
+    "author": "drane",
+    "creators": ["drane, spark"],
+    "verifier": "drane",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "NA",
+    "records": [
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
+    ]
+}
