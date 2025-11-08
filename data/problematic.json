@@ -1,7 +1,7 @@
 {
     "id": "NA",
     "name": "Problematic",
-    "author": "",
+    "author": "Dhafin",
     "creators": [],
     "verifier": "",
     "verification": "https://www.youtube.com/watch?v=N18tn6vfyGg",
@@ -34,6 +34,12 @@
         },
         {
             "user": "AceK58",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "Sar",
             "link": "",
             "percent": 100,
             "hz": "NA"
