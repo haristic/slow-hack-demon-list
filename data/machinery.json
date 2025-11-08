@@ -1,9 +1,9 @@
 {
     "modes": "",
-    "name": "Machinery",
-    "author": "",
-    "creators": [],
-    "verifier": "",
+    "name": "machinery",
+    "author": "AAAAAlex",
+    "creators": ["AAAAAlex, AvaKai"],
+    "verifier": "AAAAAlex",
     "verification": "",
     "rating": "",
     "percentToQualify": "100",
