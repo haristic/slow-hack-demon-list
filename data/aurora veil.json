@@ -1,0 +1,18 @@
+{
+    "id": "NA",
+    "name": "Aurora Veil",
+    "author": "Edooox",
+    "creators": ["Edooox, Khelado"],
+    "verifier": "Edooox",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "NA",
+    "records": [
+        {
+            "user": "WKGames",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        }
+    ]
+}
