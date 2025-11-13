@@ -2,7 +2,7 @@
     "modes": "",
     "name": "Sky Realm",
     "author": "TheRealDarnoc",
-    "creators": ["TheRealDarnoc"],
+    "creators": [],
     "verifier": "TheRealDarnoc",
     "verification": "https://www.youtube.com/watch?v=VRZD8OZ7YQM",
     "rating": "",
@@ -16,6 +16,12 @@
         },
         {
             "user": "haristic",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "Sar",
             "link": "",
             "percent": 100,
             "hz": "NA"
