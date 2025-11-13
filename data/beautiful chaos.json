@@ -3,7 +3,7 @@
     "name": "Beautiful Chaos",
     "author": "darnoc2",
     "creators": [],
-    "verifier": "",
+    "verifier": "darnoc2",
     "verification": "",
     "rating": "",
     "percentToQualify": "100",
@@ -22,6 +22,12 @@
         },
         {
             "user": "SirManFace",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "Sar",
             "link": "",
             "percent": 100,
             "hz": "NA"
