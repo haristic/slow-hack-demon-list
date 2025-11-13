@@ -1,9 +1,9 @@
 {
     "id": "NA",
     "name": "Hextec Flow",
-    "author": "",
+    "author": "TheRealDarnoc",
     "creators": [],
-    "verifier": "",
+    "verifier": "TheRealDarnoc",
     "verification": "",
     "percentToQualify": "100",
     "password": "NA",
@@ -22,6 +22,12 @@
         },
         {
             "user": "SirManFace",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "Sar",
             "link": "",
             "percent": 100,
             "hz": "NA"
