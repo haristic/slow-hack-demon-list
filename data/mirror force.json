@@ -2,7 +2,7 @@
     "modes": "",
     "name": "Mirror Force",
     "author": "Dudex",
-    "creators": ["Dudex"],
+    "creators": [],
     "verifier": "Dudex",
     "verification": "https://www.youtube.com/watch?v=RomR3KYcSFs",
     "rating": "",
@@ -16,6 +16,12 @@
         },
         {
             "user": "haristic",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "Sar",
             "link": "",
             "percent": 100,
             "hz": "NA"
