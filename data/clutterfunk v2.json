@@ -2,7 +2,7 @@
     "modes": "",
     "name": "Clutterfunk v2",
     "author": "IIINePtunEIII",
-    "creators": ["IIINePtunEIII"],
+    "creators": [],
     "verifier": "IIINePtunEIII",
     "verification": "https://www.youtube.com/watch?v=woQPtBPFs5A",
     "rating": "",
@@ -16,6 +16,12 @@
         },
         {
             "user": "haristic",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "Sar",
             "link": "",
             "percent": 100,
             "hz": "NA"
