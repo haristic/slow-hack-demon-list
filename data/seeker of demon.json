@@ -1,9 +1,9 @@
 {
     "id": "NA",
     "name": "seeker of demon",
-    "author": "",
+    "author": "seeker",
     "creators": [],
-    "verifier": "",
+    "verifier": "seeker",
     "verification": "",
     "percentToQualify": "100",
     "password": "NA",
@@ -16,6 +16,18 @@
         },
         {
             "user": "Sharken",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "Sar",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "WKGames",
             "link": "",
             "percent": 100,
             "hz": "NA"
