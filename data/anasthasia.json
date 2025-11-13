@@ -1,9 +1,9 @@
 {
     "id": "NA",
     "name": "anasthasia",
-    "author": "",
+    "author": "alkali",
     "creators": [],
-    "verifier": "",
+    "verifier": "alkali",
     "verification": "",
     "percentToQualify": "100",
     "password": "NA",
@@ -16,6 +16,12 @@
         },
         {
             "user": "Sheepyboy",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "Sar",
             "link": "",
             "percent": 100,
             "hz": "NA"
