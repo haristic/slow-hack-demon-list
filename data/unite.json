@@ -2,8 +2,8 @@
     "modes": "Cube, Ship, Ball, Wave, Robot",
     "name": "Unite",
     "author": "SomeRandomCow",
-    "creators": ["SomeRandomCow"],
-    "verifier": "",
+    "creators": [],
+    "verifier": "SomeRandomCow",
     "verification": "https://www.youtube.com/watch?v=FFGnfLTzB8w",
     "percentToQualify": "100",
     "rating": "NA",
@@ -16,6 +16,12 @@
         },
         {
             "user": "augusteldx",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "Sar",
             "link": "",
             "percent": 100,
             "hz": "NA"
