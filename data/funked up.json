@@ -2,14 +2,20 @@
     "modes": "",
     "name": "FUNKED UP",
     "author": "Voxicat",
-    "creators": [""],
-    "verifier": "",
+    "creators": [],
+    "verifier": "Voxicat",
     "verification": "",
     "rating": "",
     "percentToQualify": "100",
     "records": [
         {
             "user": "Sheepyboy",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "Sar",
             "link": "",
             "percent": 100,
             "hz": "NA"
