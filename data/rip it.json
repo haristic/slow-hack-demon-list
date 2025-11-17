@@ -1,9 +1,9 @@
 {
     "id": "NA",
     "name": "Rip it",
-    "author": "",
+    "author": "Larsen",
     "creators": [],
-    "verifier": "",
+    "verifier": "Larsen",
     "verification": "",
     "percentToQualify": "100",
     "password": "NA",
@@ -16,6 +16,18 @@
         },
         {
             "user": "Sharken",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "DaShahzad",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
+            "user": "WKGames",
             "link": "",
             "percent": 100,
             "hz": "NA"
