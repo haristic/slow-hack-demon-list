@@ -9,6 +9,12 @@
     "percentToQualify": "100",
     "records": [
         {
+            "user": "Icozen",
+            "link": "",
+            "percent": 100,
+            "hz": "NA"
+        },
+        {
             "user": "WKGames",
             "link": "",
             "percent": 100,
